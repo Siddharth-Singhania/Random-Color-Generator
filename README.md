@@ -1,2 +1,2 @@
-Random-Color-Generator
+# Random-Color-Generator
 Beginner level project
